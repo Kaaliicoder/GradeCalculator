@@ -1,0 +1,11 @@
+Name Surname Lab Assignment Midterm Final
+Elisa Blaese 10.00 24.78 69.78 94.55
+Samiya Davidson 10.00 23.95 68.95 92.90
+Ariah Brandt 10.00 24.20 66.70 90.90
+Brittney Bennett 10.00 24.90 69.90 94.80
+Lorelei Munoz 10.00 23.73 66.73 90.45
+Carlton Randall 8.00 24.20 66.70 90.90
+Elina Cantu 10.00 24.03 60.03 84.05
+Efa Murillo 10.00 22.65 65.15 87.80
+Cruz Laing 9.00 23.58 58.58 82.15
+Eisa Ferrell 8.50 21.90 65.90 87.80
